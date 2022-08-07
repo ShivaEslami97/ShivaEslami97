@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiva Eslami</h1>
 <h3 align="center">I am passionate about Web Dev and I enjoy learning new things</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaeslami97" alt="shivaeslami97" /></a> </p>
+
 
 - 🔭 I’m currently working on **on improving my Front-end web development skills**
 
