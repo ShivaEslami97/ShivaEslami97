@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **on improving my Front-end web development skills**
 
-- 🌱 I'm on track for learning more about **Javascript, React etc 😅**
+- 👩‍💻 I'm on track for learning more about **Javascript, React etc 😅**
 
 - 👯 I’m looking to collaborate on **Front-end projects**
 
