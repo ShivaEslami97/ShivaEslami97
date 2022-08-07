@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shiva Eslami</h1>
-<h3 align="center">I am passionate about Web Dev and I enjoy learning new things</h3>
-
+<h1 align="left">Hi 👋, I'm Shiva Eslami</h1>
+<h3 align="left">I am passionate about Web Dev and I enjoy learning new things</h3>
 
 
 - 🔭 I’m currently working on **on improving my Front-end web development skills**
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **shivaeslami97@gmail.com**
 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: **she/her**
 - 👀 Outside of coding I enjoy reading, witching movies & tv shows. And also I like to search about everything on the internet 😅 
 
 <h3 align="left">Connect with me:</h3>
