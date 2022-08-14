@@ -11,7 +11,7 @@
 - 📫 How to reach me **shivaeslami97@gmail.com**
 
 - 😄 Pronouns: **she/her**
-- 👀 Outside of coding I enjoy reading, witching movies & tv shows. And also I like to search about everything on the internet 😅 
+- 👀 Outside of coding I enjoy reading, watching movies & tv shows. And also I like to search about everything on the internet 😅 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
